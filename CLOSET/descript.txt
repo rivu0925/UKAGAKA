@@ -8,7 +8,7 @@ craftman,Hakrabi
 craftmanw,ƒnƒNƒ‰ƒr
 craftmanurl,http://wh-r.tumblr.com/
 
-homeurl,https://github.com/rivu0925/UKAGAKA/CLOSET/
+homeurl,https://raw.githubusercontent.com/rivu0925/UKAGAKA/CLOSET/
 
 seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
