@@ -1,0 +1,4 @@
+Charset,Shift_JIS
+type,shell
+name,Closet for Noble
+directory,CLOSET
